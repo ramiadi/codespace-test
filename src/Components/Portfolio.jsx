@@ -54,6 +54,11 @@ const projectList = [
       "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
+  {
+    title: "Codespace learning program",
+    description: "Using GitHub education pack to learn skills",
+    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+  },
 ];
 
 const Portfolio = () => {
